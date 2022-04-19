@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpquery/phpquery": "^0.0.4",
+        "php-curl-class/php-curl-class": "^9.5",
+        "electrolinux/phpquery": "^0.9.6",
+        "shuchkin/simplexlsx": "^0.8.33",
+        "phpoffice/phpspreadsheet": "^1.21"
+    }
+}
